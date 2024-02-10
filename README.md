@@ -18,4 +18,4 @@ The Face Recognition System utilizes the OpenCV library for face detection and r
 ```bash
 git clone https://github.com/your_username/face-recognition.git
 
-## By Anul Shrestha
+ - Anul Shrestha
