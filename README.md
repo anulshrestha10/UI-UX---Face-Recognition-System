@@ -1,4 +1,4 @@
-# Face Recognition System UI/UX Python CV Project
+# Face Recognition System UI/UX Python CV Project By Anul Shrestha
 
 This project is a Python-based Face Recognition System with a user-friendly graphical interface designed using Computer Vision techniques. The system allows users to perform face recognition tasks efficiently. Below, you'll find an overview of the project along with instructions for installation and usage.
 
@@ -18,4 +18,4 @@ The Face Recognition System utilizes the OpenCV library for face detection and r
 ```bash
 git clone https://github.com/your_username/face-recognition.git
 
- - Anul Shrestha
+
